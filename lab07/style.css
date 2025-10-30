@@ -114,6 +114,6 @@ nav>a:hover{
 
 @media(min-width:2300px){
     .gallery{
-        max-height: 150;
+        max-height: 150rem;
     }
 }
