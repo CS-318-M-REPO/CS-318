@@ -101,6 +101,7 @@ section>h2{
 span.rotate{
     transform:rotate(0);
 }
+/*Missing CSS for sidelink*/
 
 @media (min-width:1000px){
     .animal-background{
