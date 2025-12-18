@@ -43,7 +43,7 @@ width:50rem;
 max-width:calc(90% - 4rem);
 margin: 1rem auto;
 }
-
+/*All of the calcs below here need a space on both side of the minus sign*/
 input[type=text]{
   font-size: 1.25rem;
   width:calc(100%-1rem);
