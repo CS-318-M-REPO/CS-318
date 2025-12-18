@@ -10,18 +10,18 @@ th{
 }
 
 tr:nth-child(even){
-    color:#ffffe2;
+    color:#ffffe2;/*background-color not color*/
 }
 
 tr:nth-child(odd){
-    color:#c0c0cb;
+    color:#c0c0cb;/*background-color not color*/
 }
 
 td,th{
     padding:.5rem;
 }
 
-thread>tr:first-child>th{
+thread>tr:first-child>th{/*thead not thread */
     font-size:2rem;
     color:goldenrod;
 }
